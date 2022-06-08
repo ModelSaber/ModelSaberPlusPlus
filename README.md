@@ -1,4 +1,4 @@
-# ModelSa
+# ModelSaber++
 C++20 library to handle API requests to the ModelSaber GraphQL API
 
 ## Credits
